@@ -290,3 +290,6 @@ sys	0m0.022s
 ![meme comic "We need this to run faster" "rewrite it in rust" "rewrite it in zig" "use basic caching and work skipping" guy gets thrown out window](https://github.com/tapjs/tsimp/raw/main/faster.jpg)
 
 Basic caching and work skipping.
+
+## Support for older NodeJS versions
+Support for Node 18.X was dropped in version `2.0.12`. Dowgrade to `2.0.11` if you need to use older Node.
