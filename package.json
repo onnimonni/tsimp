@@ -100,7 +100,7 @@
     "fail-skip": true
   },
   "engines": {
-    "node": "16 >=16.17.0 || 18 >= 18.6.0 || >=20"
+    "node": ">=20"
   },
   "module": "./dist/esm/index.js"
 }
